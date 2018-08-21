@@ -1,0 +1,16 @@
+{
+  "name": "dropbox-autoupload",
+  "version": "1.0.0",
+  "description": "Monitors local files for changes and automatically uploads them to Dropbox.",
+  "keywords": ["dropbox", "cloud", "file", "upload", "backup"],
+  "main": "index.js",
+  "bin": "./index.js",
+  "author": {"name": "Justin Cardoza", "url": "https://justincardoza.com"},
+  "repository": {"type": "git", url: "https://github.com/justincardoza/dropbox-autoupload.git"}, 
+  "license": "ISC",
+  "dependencies": {
+    "dropbox": "^4.0.5",
+    "es6-promise": "^4.2.4",
+    "isomorphic-fetch": "^2.2.1"
+  }
+}

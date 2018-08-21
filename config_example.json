@@ -1,0 +1,8 @@
+{
+	"accessToken": "ACCES_TOKEN_HERE",
+	"maxFileAge": 120,
+	"files":
+	[
+		{"localPath": "index.js", "remotePath": "/index.js"}
+	]
+}
