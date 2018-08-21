@@ -6,7 +6,7 @@
   "main": "index.js",
   "bin": "./index.js",
   "author": {"name": "Justin Cardoza", "url": "https://justincardoza.com"},
-  "repository": {"type": "git", url: "https://github.com/justincardoza/dropbox-autoupload.git"}, 
+  "repository": {"type": "git", "url": "https://github.com/justincardoza/dropbox-autoupload.git"}, 
   "license": "ISC",
   "dependencies": {
     "dropbox": "^4.0.5",
